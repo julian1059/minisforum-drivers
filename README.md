@@ -3,7 +3,7 @@ Drivers for the Minisforum U500-H mini computer.
 Link to store: https://store.minisforum.com/products/minisforum-u500-h-mini-pc
 Link to forum: 
 
-# Install instructions
+# Realtek Audio Driver: Install instructions
 1. Open Device Manager as Admin >> Sound, video and game controllers
 2. Right click "High Definition Audio" and click update driver
 3. Click "Browse my computer for drivers"
