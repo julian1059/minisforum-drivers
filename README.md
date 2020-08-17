@@ -1,7 +1,7 @@
 # About
 Drivers for the Minisforum U500-H mini computer.
 Link to store: https://store.minisforum.com/products/minisforum-u500-h-mini-pc
-Link to forum: 
+Link to forum: https://bbs.minisforum.com/threads/realtek-audio-drivers-u500-h.1486/
 
 # Realtek Audio Driver: Install instructions
 1. Open Device Manager as Admin >> Sound, video and game controllers
